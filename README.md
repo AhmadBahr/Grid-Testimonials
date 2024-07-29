@@ -20,6 +20,11 @@ In this project I aimed to showcase how a responsive design is done using grid l
 So each grid is testominial basically, with color assigned to each perosn's grid, a picture and quotation.
 
 ## Code & Snippets
-![index html - Grid-Testimonials - ahmad - Visual Studio Code 25-Jul-24 11_48_50 PM](https://github.com/user-attachments/assets/5d5e7c76-867d-4a97-a89d-447edf3287a4)
-![index html - Grid-Testimonials - ahmad - Visual Studio Code 25-Jul-24 11_48_38 PM](https://github.com/user-attachments/assets/bf476bb6-7d5f-40b0-b9b5-3ecc5b294b61)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_02_37 PM](https://github.com/user-attachments/assets/758ca9b3-dc3e-4b97-8836-ef9b9e72e3fb)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_02_32 PM](https://github.com/user-attachments/assets/7aed72a0-7ce7-4cdd-a975-9bf0bb2a1927)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_02_26 PM](https://github.com/user-attachments/assets/9a24102a-15fd-451d-bb45-bffee592ac93)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_02_13 PM](https://github.com/user-attachments/assets/3f1af130-c935-4efc-ad06-1c96949e7e4d)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_02_08 PM](https://github.com/user-attachments/assets/e7704afd-ce24-46bf-811a-246e4eea09a9)
+![index html - Testimonials Grid - ahmad - Visual Studio Code 29-Jul-24 4_01_58 PM](https://github.com/user-attachments/assets/5af25991-4666-4afa-a676-a9cfa59413fe)
+
 ![Capture](https://github.com/AhmadBahr/GridTestimonials/assets/150359856/18cf678c-f179-4ab2-8824-74f156856d61)
